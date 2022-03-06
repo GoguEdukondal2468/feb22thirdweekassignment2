@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body,html{
+    height: 100%;
+}
+.bg{
+    
+    background-image: url("nature6.jpg");
+    background-color: #cccc;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    background-size: cover;
+}
+.div1{
+    text-align: center;
+    margin-top: 10px;
+}
+.head{
+    position:relative;
+    left: center;
+    top: 10px;
+    margin-bottom: 10px;
+
+}
+.para{
+    margin-bottom: 100px;
+    color:blue;
+}
+.summary{
+    margin-bottom: 15px;
+}
+.login{
+    
+    
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.txt{
+    padding: 10px;
+    margin-bottom: 20px;
+    position: absolute;
+    left: center;
+}
+.pass{
+    padding: 10px;
+    box-shadow: 10px;
+    position: absolute;
+    left: center;
+    bottom: 50px;
+}
